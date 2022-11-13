@@ -1,0 +1,6 @@
+cellphone Apple 110002 blue 1000 3
+laptop Dell 22342 black 800.5 5 0
+smartwatch Samsung 123456 gray 600 24
+laptop Lenovo 23345 black 1000 7 1
+smartwatch Apple 2324395 gray 800 36
+cellphone LG 345522 silver 650 1
