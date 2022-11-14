@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TemperatureSorter", "TemperatureSorter\TemperatureSorter.vcxproj", "{CD42B6A7-2AA3-42B9-8168-EC5AC56F55F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD42B6A7-2AA3-42B9-8168-EC5AC56F55F0}.Debug|x64.ActiveCfg = Debug|x64
+		{CD42B6A7-2AA3-42B9-8168-EC5AC56F55F0}.Debug|x64.Build.0 = Debug|x64
+		{CD42B6A7-2AA3-42B9-8168-EC5AC56F55F0}.Debug|x86.ActiveCfg = Debug|Win32
+		{CD42B6A7-2AA3-42B9-8168-EC5AC56F55F0}.Debug|x86.Build.0 = Debug|Win32
+		{CD42B6A7-2AA3-42B9-8168-EC5AC56F55F0}.Release|x64.ActiveCfg = Release|x64
+		{CD42B6A7-2AA3-42B9-8168-EC5AC56F55F0}.Release|x64.Build.0 = Release|x64
+		{CD42B6A7-2AA3-42B9-8168-EC5AC56F55F0}.Release|x86.ActiveCfg = Release|Win32
+		{CD42B6A7-2AA3-42B9-8168-EC5AC56F55F0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D93C8B06-C98B-43C8-A342-96BF1FE01DB4}
+	EndGlobalSection
+EndGlobal
